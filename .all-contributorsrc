@@ -1,0 +1,84 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "eltociear",
+      "name": "Ikko Eltociear Ashimine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22633385?v=4",
+      "profile": "https://github.com/eltociear",
+      "contributions": [
+        "ideas",
+        "code"
+      ]
+    },
+    {
+      "login": "jsindy",
+      "name": "Joshua Sindy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4966007?v=4",
+      "profile": "https://github.com/jsindy",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "erjanmx",
+      "name": "Erjan Kalybek",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4899432?v=4",
+      "profile": "https://github.com/erjanmx",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Woahai321",
+      "name": "WoahAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115117306?v=4",
+      "profile": "https://woahai.com/",
+      "contributions": [
+        "bug",
+        "code"
+      ]
+    },
+    {
+      "login": "TommyZihao",
+      "name": "Tommy in Tongji",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36354458?v=4",
+      "profile": "https://space.bilibili.com/1900783",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "codebanesr",
+      "name": "codebane",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17947802?v=4",
+      "profile": "https://resume.applesauce.co.in",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "lvalics",
+      "name": "lvalics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27447535?v=4",
+      "profile": "https://gloobus.it",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "OpenChat",
+  "projectOwner": "openchatai"
+}
